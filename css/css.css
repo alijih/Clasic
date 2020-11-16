@@ -8,3 +8,10 @@
 
 a{text-decoration: none; color: white;}
 
+#piedepagina{ 
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 30px;
+    background-color: black;
+    color:white}
